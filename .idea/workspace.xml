@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="427a6b17-2520-48e6-adc1-0d08d7b23701" name="Changes" comment="Moh sent you a message.">
+    <list default="true" id="427a6b17-2520-48e6-adc1-0d08d7b23701" name="Changes" comment="Moh sent you a message2.">
       <change beforePath="$PROJECT_DIR$/TestJavaProject/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestJavaProject/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668610406569</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Moh sent you a message2.">
+      <created>1668610559022</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668610559022</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +90,7 @@
     <MESSAGE value="sum and substract methods" />
     <MESSAGE value="delete all in main" />
     <MESSAGE value="Moh sent you a message." />
-    <option name="LAST_COMMIT_MESSAGE" value="Moh sent you a message." />
+    <MESSAGE value="Moh sent you a message2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Moh sent you a message2." />
   </component>
 </project>
