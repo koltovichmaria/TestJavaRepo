@@ -12,5 +12,6 @@ public class Main {
         double b = in.nextDouble();
 
         System.out.println("Hello gays");
+        System.out.println("Hello Sucks!");
     }
 }
