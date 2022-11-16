@@ -7,6 +7,7 @@ public class Main {
         String znak = in.nextLine();
         double b = in.nextDouble();
 
+        System.out.println("Hello gays");
 
     }
 }
