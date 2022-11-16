@@ -10,6 +10,7 @@ public class Main {
         double a = in.nextDouble();
         String operation = in.nextLine();
         double b = in.nextDouble();
+
         System.out.println("Hello gays");
     }
 }
